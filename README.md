@@ -1,6 +1,6 @@
 # Edge-AI-for-IoT-Developers-Nanodegree
 
-### Lesson4:
+### Lesson4-The Inference Engine:
 ![image](https://github.com/spregler/Edge-AI-for-IoT-Developers-Nanodegree/blob/master/Resources/Capture.PNG)
 
 #### In this lesson we'll cover:
@@ -12,7 +12,7 @@
 * Handling Results from the Inference Engine
 * Integrating the Inference Model into an App
 
-### Lesson5:
+### Lesson5-Deploying an Edge App:
 ![image](https://github.com/spregler/Edge-AI-for-IoT-Developers-Nanodegree/blob/master/Resources/Capture2.PNG)
 #### In this lesson we'll cover:
 * Basics of OpenCV
