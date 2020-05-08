@@ -1,6 +1,7 @@
 # Edge-AI-for-IoT-Developers-Nanodegree
 
 ### Lesson4:
+![image](https://github.com/spregler/Edge-AI-for-IoT-Developers-Nanodegree/blob/master/Resources/Capture.PNG)
 
 #### In this lesson we'll cover:
 
@@ -12,8 +13,8 @@
 * Integrating the Inference Model into an App
 
 ### Lesson5:
+![image](https://github.com/spregler/Edge-AI-for-IoT-Developers-Nanodegree/blob/master/Resources/Capture2.PNG)
 #### In this lesson we'll cover:
-
 * Basics of OpenCV
 * Handling Input Streams in OpenCV
 * Processing Model Outputs for Additional Useful Information
